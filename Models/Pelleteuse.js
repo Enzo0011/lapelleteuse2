@@ -7,3 +7,5 @@ class Pelleteuse {
         console.log(`Machine : ${this.type} créée !`);
     }
 }
+
+export default Pelleteuse;

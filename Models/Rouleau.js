@@ -7,3 +7,5 @@ class Rouleau {
         console.log(`Machine : ${this.type} créée !`);
     }
 }
+
+export default Rouleau;

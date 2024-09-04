@@ -7,3 +7,5 @@ class Tractopelle {
         console.log(`Machine : ${this.type} créée !`);
     }
 }
+
+export default Tractopelle;

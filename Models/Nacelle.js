@@ -1,4 +1,4 @@
-class Pelleteuse {
+class Nacelle {
     constructor(machine) {
         this.type = machine.type
     }
@@ -7,3 +7,5 @@ class Pelleteuse {
         console.log(`Machine : ${this.type} créée !`);
     }
 }
+
+export default Nacelle;
